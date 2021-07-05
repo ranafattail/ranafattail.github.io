@@ -3,8 +3,8 @@ permalink: /
 hidden: true
 layout: splash
 header:
-  overlay_color: "#5e616c"
   overlay_image: /assets/images/cafe.jpg
+  overlay_filter: 0.5
   actions:
     - label: "Réserver"
       url: /concept/
@@ -28,7 +28,7 @@ chats:
   url: /chats/
   btn_label: "Qui sont les chats ?"
   btn_class: "btn--info"
-chats:
+carte:
 - image_path: /assets/images/carte.png
   alt: "Carte"
   title: "Carte"
@@ -43,3 +43,5 @@ chats:
 {% include feature_row id="concept" type="left" %}
 
 {% include feature_row id="chats" type="right" %}
+
+{% include feature_row id="carte" type="left" %}
