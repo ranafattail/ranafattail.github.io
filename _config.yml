@@ -1,6 +1,6 @@
 # Theme Settings
 remote_theme             : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default"
+minimal_mistakes_skin    : "air"
 
 # Site Settings
 locale                   : "fr-FR"
@@ -9,7 +9,6 @@ title_separator          : "-"
 name                     : "CMC"
 description              : "Un lieu dédié aux chats où vous n'êtes que l'invité"
 url                      : "https://ranafattail.github.com"
-words_per_minute         : 20
 
 # Social Sharing
 facebook:

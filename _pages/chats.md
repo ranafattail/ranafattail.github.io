@@ -17,7 +17,7 @@ gallery:
     image_path: /assets/images/cats/simba.jpg
     title: "Simba"
   - url: /assets/images/cats/Chaun.jpg
-    image_path: /assets/images/cats/Chaun.jpg
+    image_path: /assets/images/cats/chaun.jpg
     title: "Chaun"
   - url: /assets/images/cats/beta.jpg
     image_path: /assets/images/cats/beta.jpg
@@ -38,7 +38,7 @@ gallery:
     image_path: /assets/images/cats/jessie.jpg
     title: "Jessie"
   - url: /assets/images/cats/Jerico.jpg
-    image_path: /assets/images/cats/Jerico.jpg
+    image_path: /assets/images/cats/jerico.jpg
     title: "Jerico"
 ---
 
