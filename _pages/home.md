@@ -1,4 +1,6 @@
 ---
+permalink: /
+hidden: true
 layout: splash
 header:
   overlay_image: /assets/images/cafe.jpg
