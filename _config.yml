@@ -3,38 +3,25 @@ remote_theme             : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default"
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Fly me to the moon"
+locale                   : "fr-FR"
+title                    : "Chat Mallows Café"
 title_separator          : "-"
-name                     : "tianyi"
-description              : "Blog personnel sur tout et rien"
-url                      : "https://www.litianyi.me"
+name                     : "CMC"
+description              : "Un lieu dédié aux chats où vous n'êtes que l'invité"
+url                      : "https://ranafattail.github.com"
 words_per_minute         : 20
-comments:
-  provider               : "disqus"
-  disqus:
-    shortname            : "tianyikillua"
-search                   : true
-search_full_content      : true
-search_provider          : algolia
-algolia:
-  application_id         : 5ODSKX9P06
-  index_name             : Blog
-  search_only_api_key    : 01c79c59b07558a5bba71b1347ead4d9
-  powered_by             : true
 
 # Social Sharing
-
-# Analytics
-analytics:
-  provider               : "custom"
+facebook:
+  username               :chatmallowscafe
+instagram:
+  username               :chat_mallows_cafe
 
 # Site Author
 author:
-  name             : "tianyi"
-  avatar           : "/assets/images/avatar.jpg"
-  bio              : "Juste un autre PhD asexuel et bègue, curieux de tout et de rien"
-  location         : "Paris"
+  name             : "CMC"
+  avatar           : "/assets/images/logo.png"
+  location         : "Paris 15e"
 
 # Site Footer
 
@@ -74,14 +61,6 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
-# Archives
-category_archive:
-  type: liquid
-  path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/
-
 # Defaults
 defaults:
   # _posts
@@ -94,7 +73,7 @@ defaults:
       author_profile: true
       read_time: true
       comments: true
-      share: false
+      share: true
       related: true
       classes: wide
   # _pages
@@ -106,4 +85,4 @@ defaults:
       author_profile: true
       classes: wide
       comments: true
-      share: false
+      share: true

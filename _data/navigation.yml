@@ -1,12 +1,14 @@
 # main links
 main:
-  - title: "About me"
-    url: /about/
-  - title: "Blog"
-    url: /archive/
-  - title: "Tags"
-    url: /tags/
-  - title: "法国外国人居留 FAQ"
-    url: /sejour-etranger-france/
-  - title: "法国居留法律咨询"
-    url: /consultation-titre-sejour-france/
+  - title: Concept
+    url: /concept/
+  - title: Règlement
+    url: /reglement/
+  - title: Carte
+    url: /carte/
+  - title: "Chats"
+    url: /chats/
+  - title: "Contact"
+    url: /contact/
+  - title: "FAQ"
+    url: /FAQ/
